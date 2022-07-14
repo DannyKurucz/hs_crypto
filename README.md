@@ -1,4 +1,4 @@
-![btc|690x388](upload://5psaA4wkJYFQaV6xqo68QhR0jAx.jpeg)
+![btc](https://user-images.githubusercontent.com/67187417/178865449-5122dc5d-98a2-434a-a17e-65c7dee4e0cf.png)
 
 
 **Hi this is my first script with NUI, so sorry for any flaws or bad design :D**
